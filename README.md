@@ -2,4 +2,4 @@
 **_<p>Kelas : TI.21.A.3</p>_**
 **_<p>NIM : 312110169</p>_**
 
-> Click **_[Here](https://documenter.getpostman.com/view/19500855/2s93Juv3wB)_**
+> Click **_[Here](https://roxyzc.github.io/tabel-absen/)_**
